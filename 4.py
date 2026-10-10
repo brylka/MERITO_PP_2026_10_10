@@ -5,13 +5,22 @@
 # a **= 3
 # print(a)
 
-a = 5
-b = 5
-print(a > b)
+# a = 5
+# b = 5
+# print(a > b)
 # Operatory porównania:
 # == równe
 # != różne
 # > większe
 # >= większe lub równe
 # < mniejsze
-# <= mniejsze lub równe
+# <= mniejsze, lub równe
+
+# a = 4
+# b = 5
+# c = 6
+#
+# print(a > b and c > a)
+
+text = "Python"
+print("e" not in text)
